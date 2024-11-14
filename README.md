@@ -1,1 +1,19 @@
-# atmega-master
+# Footprint & NC
+
+|이름|footprint|NC|
+|---|---|---|
+|BATTERY|JUMPER2||
+|CON2|JUMPER2||
+|CON3|JUMPER3||
+|Photo NPN|||
+|PNP ECB|DO92||
+|NPN|||
+|CAP NP|CAPCK05||
+|CAP POL|CAP196||
+|LED|CAP196||
+|R|RES400||
+|DIODE|DO41||
+|DIODE ZENER|DO41||
+|RESISTOR VAR 2|RESADJ|3|
+|RESISTOR VAR|RESADJ||
+|LF356|DIP8_3|8|
