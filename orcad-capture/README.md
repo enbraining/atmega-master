@@ -7,3 +7,11 @@
 |선 연결하기|w||
 |선에 이름 붙이기|n|Net Alias|
 |사용하지 않는 핀|x|No Connect|
+
+# Design Rules Options
+
+Create DRC markers, View Output 선택
+
+# Create Netlist
+
+Create or Update PCB Editor Board, Open Board in OrCAD PCB Editor 선택
