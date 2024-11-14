@@ -26,7 +26,7 @@
   ```
 </details>
 
-### 7번 인터럽트를 눌렀을 때, PORT A의 모든 LED를 켜보세요.
+### 7번 인터럽트를 눌렀을 때, PORT A의 모든 LED를 반전시켜보세요.
 
 <details>
   <summary>코드 확인하기</summary>
